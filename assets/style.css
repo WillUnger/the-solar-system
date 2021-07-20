@@ -49,14 +49,19 @@
     width: 200px;
 }
 
-.planet-block-one {
-    
-}
-
-.planet-block-two {
+.planet-row-one {
    
 }
 
-.planet-block-three {
-    
+
+.planet-column-one {
+    display: inline-block
+}
+
+.planet-column-two {
+    display: inline-block
+}
+
+.planet-column-three {
+    display: inline-block
 }
