@@ -34,15 +34,27 @@
 /* Celestial Navigation */
 
 #celestial-navs {
-    height:1200px
+    height:1200px;
+    width: 100%;
 }
 
 #celestial-navs h2 {
     text-align: center;
 }
 
-img {
+#celestial-navs img {
     height: 200px;
     width: 200px;
 }
 
+.planet-block-one {
+    
+}
+
+.planet-block-two {
+   
+}
+
+.planet-block-three {
+    
+}
