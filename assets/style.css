@@ -53,18 +53,20 @@
 }
 
 ul {
-    
+    font-size: 0;
+    margin: 0 auto;
 }
+
 li {
-    display: inline-block;
-    margin: 0 5% 5% 5%;
-    background-size: cover;
-    list-style:none;
+    float:left;
+    width: 30%;
+    padding-bottom: 10px; /* = width for a 1:1 aspect ratio */
+    margin:1.66%;
     
-   
-    
+
 }
-li p {
-    text-align: center;
-}
+ 
+
+
+
     
