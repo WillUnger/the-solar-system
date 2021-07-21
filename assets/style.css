@@ -37,7 +37,7 @@
 
 #celestial-navs {
     height:1200px;
-    width: 100%;
+    
 }
 
 #celestial-navs h2 {
@@ -45,23 +45,23 @@
 }
 
 #celestial-navs img {
-    height: 200px;
-    width: 200px;
+    height: 400px;
+    width: 400px;
+    border: solid 1px #fff;
+    padding: 2px;
+    margin: 2px;
 }
 
-.planet-row-one {
-   
+ul {
+    
 }
-
-
-.planet-column-one {
-    display: inline-block
+li {
+    display: inline-block;
+    margin: 0 5% 5% 5%;
+    background-size: cover;
+    list-style:none;
 }
-
-.planet-column-two {
-    display: inline-block
+li p {
+    text-align: center;
 }
-
-.planet-column-three {
-    display: inline-block
-}
+    
