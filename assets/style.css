@@ -38,9 +38,9 @@
 
 
 #celestial-navs {
-    height:1200px;
+    height:1400px;
     background: url(/assets/images/milkyway.jpeg);
-    
+    background-size: cover;
 }
 
 #celestial-navs h2 {
@@ -48,8 +48,8 @@
 }
 
 #celestial-navs img {
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
     border: solid 1px #fff;
     padding: 2px;
     margin: 2px;
@@ -99,8 +99,7 @@
 .column p {
     font-size: 3em;
     margin: 0px;
-    position: relative;
-    
+    position: relative;    
 }
 
 
