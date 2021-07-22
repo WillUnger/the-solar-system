@@ -6,6 +6,7 @@
     letter-spacing: 5px;
 }
 
+
 /* Hero Image */
 #hero-outer {
     height: 600px;
@@ -35,8 +36,10 @@
 
 /* Celestial Navigation */
 
+
 #celestial-navs {
     height:1200px;
+    background: url(/assets/images/milkyway.jpeg);
     
 }
 
