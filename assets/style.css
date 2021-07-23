@@ -43,8 +43,10 @@
     background-size: cover;
 }
 
+
 #celestial-navs h2 {
     text-align: center;
+    color:#fff;
 }
 
 #celestial-navs img {
@@ -101,6 +103,33 @@
     margin: 0px;
     position: relative;    
 }
+
+
+
+/* footer */
+
+footer {
+    height: 150px;
+
+}
+
+.social-networks {
+    text-align: center;
+
+}
+
+.social-networks > li {
+    display: inline;
+    color: black;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 1% 5%;
+    color: black;
+}
+
 
 
 
