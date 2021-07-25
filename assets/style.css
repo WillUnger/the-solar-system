@@ -132,13 +132,27 @@ footer {
 
 /* Nav Pages */
 
-.title {
-    text-align:center;
-    font-size: 400%;
-    letter-spacing: 5px;
+#planet-title {
+    float: right;
+    font-size: 300%;
+    margin-right: 30px;
+    margin-top: 5px;
     
-
 }
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 2px;
+    
+}
+#menu li {
+    list-style-type: none;
+    text-transform: uppercase;
+    
+}
+
+
+
 
 
 
