@@ -165,15 +165,36 @@ footer {
 
 /* Planet Information */
 
+#planet-info {
+    height: 1000px;
+}
 
+#left-about {
+    width: 33%;
+    float:left;
+}
 
+#right-about {
+    width: 33%;
+    float: right;
+}
 
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+}
 
+.left-about-heading {
+    float: right;
+    clear: both;
+    width: 50%;
+}
 
-
-
-
-
+.right-about-heading {
+    float: left;
+    clear: both;
+    width: 50%;
+}
 
 
 
