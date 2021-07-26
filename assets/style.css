@@ -168,6 +168,14 @@ footer {
 #planet-info {
     height: 1000px;
 }
+#planet-info h2 {
+    color: #fff;
+}
+
+#info-head {
+    text-align: center;
+    font-size: 200%;
+}
 
 #left-about {
     width: 33%;
@@ -196,9 +204,22 @@ footer {
     width: 50%;
 }
 
+.left-about-heading h2 {
+    text-align: right;
+}
 
+.image-container {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+}
 
-
+#info-image-one img {
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    
+}
 
 
 
