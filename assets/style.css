@@ -131,12 +131,17 @@ footer {
 }
 
 /* Nav Pages */
+#planet-page {
+    background: url("/assets/images/milkyway.jpeg");
+    background-size:cover;
+}
 
 #planet-title {
     float: right;
-    font-size: 300%;
+    font-size: 400%;
     margin-right: 30px;
     margin-top: 5px;
+    color: #fff;
     
 }
 
@@ -148,14 +153,15 @@ footer {
 #menu li {
     list-style-type: none;
     text-transform: uppercase;
+    color: #fff;
     
 }
 
 #planet-hero-image {
-    background: url("/assets/images/main-sun-image.jpg") no-repeat center center;
-    height: 600px;
-    width:33%;
-    margin: 0 auto;
+    
+    
+
+
 }
 
 
