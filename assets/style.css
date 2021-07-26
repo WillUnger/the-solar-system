@@ -151,6 +151,17 @@ footer {
     
 }
 
+#planet-hero-image {
+    background: url("/assets/images/main-sun-image.jpg") no-repeat center center;
+    height: 600px;
+    width:33%;
+    margin: 0 auto;
+}
+
+
+
+
+
 
 
 
