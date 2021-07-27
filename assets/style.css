@@ -166,6 +166,7 @@ footer {
     margin-left: 33%;
     height: 600px;
     width: 33%;
+    
 }
 
 /* Planet Information */
@@ -183,10 +184,21 @@ footer {
     font-size: 200%;
 }
 
-.info-container {
-    width: 100%;
-    }
+#left {
+    float: left;
+    width: 33%;
+    background-color: red;
+}
 
+#right {
+    float: right;
+    width: 33%;
+    background-color: blue;
 
+}    
 
-    
+#center {
+    margin: 0 auto;
+    width: 33%;
+    background-color: green;
+}
