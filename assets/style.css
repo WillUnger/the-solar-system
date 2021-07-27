@@ -173,7 +173,7 @@ footer {
 /* Planet Information */
 
 #planet-info {
-    height: 1000px;
+    height: 1400px;
     width: 100%;
 }
 #planet-info h2 {
@@ -197,9 +197,15 @@ footer {
 
 .info-div {
     width: 33%;
-    height: 600px;
-    border: 1px black solid;
-    background: #369;
+    height: 1200px;
+    border: solid 1px #fff;
+    background-color: rgba(51,102,153,.6)
 }
+
+#center-about img {
+    height: 400px;
+    width: 100%;   
+}
+
 
 
