@@ -157,8 +157,8 @@ footer {
     
 }
 
-#planet-hero-image {
-    margin:0 auto;
+#planet-hero-image>img {
+    margin-left: 33%;
     height: 600px;
     width: 33%;
 }
