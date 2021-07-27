@@ -167,6 +167,7 @@ footer {
 
 #planet-info {
     height: 1000px;
+    width: 100%;
 }
 #planet-info h2 {
     color: #fff;
@@ -177,49 +178,9 @@ footer {
     font-size: 200%;
 }
 
-#left-about {
-    width: 33%;
-    float:left;
-}
-
-#right-about {
-    width: 33%;
-    float: right;
-}
-
-#center-about {
-    width: 33%;
-    margin: 0 auto;
-}
-
-.left-about-heading {
-    float: right;
-    clear: both;
-    width: 50%;
-}
-
-.right-about-heading {
-    float: left;
-    clear: both;
-    width: 50%;
-}
-
-.left-about-heading h2 {
-    text-align: right;
-}
-
-.image-container {
-    width: 400px;
-    height: 400px;
-    margin: 0 auto;
-}
-
-#info-image-one img {
-    width: 400px;
-    height: 400px;
-    text-align: center;
-    
-}
+.info-container {
+    width: 100%;
+    }
 
 
 
