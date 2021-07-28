@@ -49,7 +49,7 @@ body {
 
 #celestial-navs {
     height:1400px;
-    background: url(/assets/images/milkyway.jpeg);
+    /* background: url(/assets/images/milkyway.jpeg); */
     background-size: cover;
 }
 
@@ -195,7 +195,7 @@ footer {
 
 #info-head {
     text-align: center;
-    font-size: 200%;
+    font-size: 300%;
 }
 
 #info-container {
@@ -206,6 +206,7 @@ footer {
     border: 1px black solid;
     margin: 0 auto;
     
+    
 }
 
 .info-div {
@@ -215,10 +216,26 @@ footer {
     background-color: rgba(51,102,153,.6)
 }
 
+.info-div h2 {
+    color: #fff;
+    font-size: 200%;
+    font-family: 'Teko', sans-serif;
+    letter-spacing: 4px;
+
+}
+
 #center-about img {
     height: 500px;
     width: 100%;   
 }
+
+li {
+    color: #fff;
+    font-size: 150%;
+    font-family: 'Teko', sans-serif;
+}
+
+
 
 
 
