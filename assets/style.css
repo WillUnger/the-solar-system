@@ -109,6 +109,14 @@
     position: relative;    
 }
 
+a:link {
+    color:#fff;
+}
+a:visited {
+    color:#fff;
+}
+
+
 
 
 /* footer */
@@ -144,14 +152,14 @@ footer {
 #planet-title {
     float: right;
     font-size: 400%;
-    margin-right: 30px;
+    margin-right: 50px;
     margin-top: 5px;
     color: #fff;
     
 }
 
 #menu {
-    font-size: 100%;
+    font-size: 150%;
     letter-spacing: 2px;
     
 }
