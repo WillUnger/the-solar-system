@@ -91,24 +91,19 @@ a:visited {
 
 footer {
     height: 9.375rem;
-
 }
-
 .social-networks {
     text-align: center;
-
 }
-
 .social-networks > li {
     display: inline;
     color: black;
 }
-
 .social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 1% 5%;
-    color: black;
+    color: #fff;
 }
 
 /* Nav Pages */
@@ -122,9 +117,9 @@ footer {
     font-size: 4rem;
     margin-right: 50px;
     margin-top: 5px;
-    color: #fff;
-    
+    color: #fff;   
 }
+
 #menu {
     font-size: 1.5rem;
     letter-spacing: 2px;    
@@ -183,6 +178,7 @@ li {
     font-size: 1.5rem;
     font-family: 'Teko', sans-serif;
 }
+
 
 
 
