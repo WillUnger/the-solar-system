@@ -117,13 +117,20 @@ footer {
 }
 #menu {
     font-size: 1.5rem;
-    letter-spacing: 2px;    
+    letter-spacing: 2px; 
+    font-weight: 900;   
 }
 #menu li {
     list-style-type: none;
-    text-transform: uppercase;
-    color: #fff;    
+    text-transform:uppercase; 
+    position: fixed; 
+    
 }
+#menu a {
+    color:#CC5500; 
+    text-decoration: solid;
+}
+
 #planet-hero-image>img {
     margin-left: 33%;
     height: auto;
@@ -170,7 +177,7 @@ footer {
 #center-about img {
     height: auto;
     width: 100%;
-       
+      
 }
 li {
     color: #fff;
@@ -250,7 +257,7 @@ li {
     }
     
     li {
-        color: #fff;
+        color: #fff; 
         font-size: 1.5rem;
         font-family: 'Teko', sans-serif;
     }
@@ -305,7 +312,7 @@ li {
         letter-spacing: 0.5px;    
     }  
     li {
-        color: #fff;
+        color:#fff; 
         font-size: 0.8rem;
         font-family: 'Teko', sans-serif;
     }
