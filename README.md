@@ -6,6 +6,30 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 <img src="assets/images/am-i-responsive.png" alt="Am-I-Responsive Image>
 
+# Feautures
+
+## Opening Section
+
+* When you load the website, the title will display along with cover text over an image of our Solar System explaining what the Solar System is in very simple bullet points
+
+* The user is prompted to click on the images below in order to navigate around the website
+
+* The image is surrounded by a white border in order to avoid the two dark shades of the night sky and empty space clashing
+
+<img src="assets/images/opening-section-head.png" alt="Image of opening section">
+
+
+
+
+## Navigation
+
+* In this section which is on the same page as the opening section - the user navigates the website through the use of the images and text displayed
+
+* The user is again prompted with the text "Choose your Celestial Body"
+
+<img src="assets/images/planet-navigation-image.png" alt="Screenshot of planet-navigation section">
+
+
 
 
 
