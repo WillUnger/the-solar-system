@@ -107,7 +107,7 @@ footer {
 
 /* Nav Pages */
 #planet-page {
-    background: url("./assets/images/milkyway.jpeg");
+    background: url("../images/milkyway.jpeg");
     background-size:cover;
 }
 #planet-title {
