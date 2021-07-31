@@ -283,6 +283,7 @@ position: absolute;
     }
 }
 @media screen and (max-width:700px) {
+
     #planet-title {
         float: right;
         font-size: 2rem;
@@ -297,6 +298,7 @@ position: absolute;
 }
 
 @media screen and (max-width:550px) {
+    
     #planet-title {
         float: right;
         font-size: 1.2rem;
