@@ -194,21 +194,12 @@ li {
        
     /* Celestial Navigation */
 
-#celestial-navs {
-    height:auto;
-    background-size: cover;
-}
-#celestial-navs h2 {
-    text-align: center;
-    color:#fff;
-}
 #celestial-navs img {
     height: auto;
     width: 90%;
     border: solid 1px #fff;
     padding: 2px;
     margin: 2px;   
-
 }
 .row {
     width: 100%;
@@ -218,27 +209,32 @@ li {
 .row>div {
     width: 100%;
     height: auto;
-    text-align:center;
-    
+    text-align:center;   
 }
 }
 
-  /* Cover Text */
+  /* Home Page <header> */
 
 @media screen and (max-width:530px) {
 
-#cover-text {
-color: #fff;
-font-size: 1.1rem;
-font-family: 'Teko', sans-serif;
-text-transform: uppercase;
-width: 20rem;
-height: 20rem;
-padding-top: 1.25rem;
-padding-left:0.625rem;
-top: 15.375rem;
-left: 2.125rem;
-position: absolute;
+    #title {
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 3px;
+    color: #fff;
+    }
+    #cover-text {
+    color: #fff;
+    font-size: 1.1rem;
+    font-family: 'Teko', sans-serif;
+    text-transform: uppercase;
+    width: 20rem;
+    height: 20rem;
+    padding-top: 1.25rem;
+    padding-left:0.625rem;
+    top: 15.375rem;
+    left: 2.125rem;
+    position: absolute;
 }
 }
 
