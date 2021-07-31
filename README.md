@@ -4,7 +4,7 @@ The Solar System is an educational website based on the Planets that are orbitin
 
 The site uses a main page with the images of the sun and planets on it for use of navigation. The colours, fonts are a simple bright white which contrast quite nicely with images that would naturally follow a night sky theme 
 
-<img src="assets/images/am-i-responsive.png" alt="Am-I-Responsive Image>
+<img src="assets/images/am-i-responsive.png" alt="Screenshot of Am I Responsive webpage">
 
 # Feautures
 
@@ -29,6 +29,20 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 <img src="assets/images/planet-navigation-image.png" alt="Screenshot of planet-navigation section">
 
+
+* When you click on one of the planets it will take you to that planet page
+
+* If you want to choose another planet then all you have to do is click the nav link that reads "Choose Another Celestial Body". This has a burnt orange colour to it in order to contrast between the information text 
+
+* This is also placed in a fixed position so it follows the user as they scroll through the content saving the user the effort of having to scroll back to the top in order to go back to the main navigation page
+
+<img src="assets/images/planet-page-with-nav-feature.png" alt="Screenshot of Uranus page head">
+
+
+
+# Content
+
+* 
 
 
 

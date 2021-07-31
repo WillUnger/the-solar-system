@@ -123,8 +123,7 @@ footer {
 #menu li {
     list-style-type: none;
     text-transform:uppercase; 
-    position: fixed; 
-    
+    position: fixed;    
 }
 #menu a {
     color:#CC5500; 
@@ -262,7 +261,7 @@ li {
         font-family: 'Teko', sans-serif;
     }
 }
-@media screen and (max-width:800px) {
+@media screen and (max-width:902px) {
     /* For smaller screens */
 
     #info-container {
