@@ -246,6 +246,7 @@ position: absolute;
 
 /* Nav Pages */
 @media screen and (max-width:1200px) {
+    /* For medium to large screens */
 
     .info-div {
         width: 33%;
@@ -261,14 +262,58 @@ position: absolute;
     }
 }
 @media screen and (max-width:800px) {
+    /* For smaller screens */
+
     #info-container {
-        display:block;
+        display: block;
     }
     .info-div {
         width: 100%;
+        height: 100%;
+    }
+    #center-about {
+        width: 100%;
+        text-align: center;
+    }
+    #center-about img{
+        display: inline-block;
+        height: 100%;
+        width: 30%;
+        margin: 0;
     }
 }
+@media screen and (max-width:700px) {
+    #planet-title {
+        float: right;
+        font-size: 2rem;
+        margin-right: 2.125rem;
+        margin-top: 5px;
+        color: #fff;   
+    }
+    #menu {
+        font-size: 1rem;
+        letter-spacing: 1px;    
+    }  
+}
 
+@media screen and (max-width:550px) {
+    #planet-title {
+        float: right;
+        font-size: 1.2rem;
+        margin-right: 1.125rem;
+        margin-top: 5px;
+        color: #fff;   
+    }
+    #menu {
+        font-size: 0.6rem;
+        letter-spacing: 0.5px;    
+    }  
+    li {
+        color: #fff;
+        font-size: 0.8rem;
+        font-family: 'Teko', sans-serif;
+    }
+}
     
 
 
