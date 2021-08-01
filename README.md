@@ -144,6 +144,18 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 Link to Live Website: [The Solar System]('willunger.github.io/the-solar-system/')
 
+# Credits
+
+Sources
+
+* The Fonts used can be sourced from [Google-Fonts]('https://fonts.google.com/')
+* The Icons used can be sourced from [Font-Awesome]('https://fontawesome.com/')
+* The information used to make the content came mainly from the [NASA]('https://www.nasa.gov/topics/solarsystem/index.html') website as well as my own general knowledge
+* Images also came from the NASA website above but mainly from https://commons.wikimedia.org/wiki/Main_Page
+* 
+
+Finally, I wish to thank my Mentor - Richard Wells - for the encouragement and help he gave me
+
 
 
 
