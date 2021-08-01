@@ -96,6 +96,11 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 <img src="assets/images/index.html-validator-image.png" alt="Screenshot of HTML validator warning">
 
+* As for the planet.htmls and the style.css - No errors were found
+
+<img src="assets/images/planet-html-validator-image.png" alt="Screenshot of individual planet code validation">
+
+<img src="assets/images/css-validator-image.png" alt="Screenshot of CSS code validation">
 
 
 
