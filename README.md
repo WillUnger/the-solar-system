@@ -42,7 +42,11 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 # Content
 
-* 
+* Within the individual Planet Pages we have a section with Four Heading - Overview, Composition, Size and Distances and Temperature and Atmosphere
+
+* Within these Four Headings we have Four Bullet Points stating facts about the planet
+
+* These are quick-fire points that are easy to take in and comprehend
 
 
 
