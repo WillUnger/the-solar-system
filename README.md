@@ -27,6 +27,8 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 * The user is again prompted with the text "Choose your Celestial Body"
 
+* No Hover feature was used here as I found it wasn't displaying well with the colour and background images 
+
 <img src="assets/images/planet-navigation-image.png" alt="Screenshot of planet-navigation section">
 
 
@@ -40,7 +42,7 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 
 
-# Content
+## Content
 
 * Within the individual Planet Pages we have a section with Four Heading - Overview, Composition, Size and Distances and Temperature and Atmosphere
 
@@ -50,6 +52,16 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 <img src="assets/images/planet-content-image.png" alt="Screenshot of planet information section">
 
+
+## Footer
+
+* The footer has links to social media which open in new pages
+
+* Like the majority of text on this website the colour is set to white
+
+* Again, no Hover feature is used
+
+<img src="assets/images/footer-image.png" alt="Screenshot of Footer">
 
 
 
