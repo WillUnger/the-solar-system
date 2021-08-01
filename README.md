@@ -50,6 +50,8 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 * These are quick-fire points that are easy to take in and comprehend
 
+* Between the divs of text we have images of the planets
+
 <img src="assets/images/planet-content-image.png" alt="Screenshot of planet information section">
 
 
@@ -62,6 +64,25 @@ The site uses a main page with the images of the sun and planets on it for use o
 * Again, no Hover feature is used
 
 <img src="assets/images/footer-image.png" alt="Screenshot of Footer">
+
+# Responsive Design
+
+* For mobile and tablets I changed the layout of the Navigation Images on the Home Page so that they would stack up on top of eachother
+
+* The difficulty with the responsive design over all was the size and placement of text which had to be re-sized and re-positioned in order to display in the correct manner
+
+<img src="assets/images/responsive-design-example-1.png" alt="Responsive Design Screenshot for Home Page">
+
+* I applied the same design idea to the individual planet pages - placing the each div with content in it on top of each other
+
+* Again, it was the text that caused difficulty at various pixel widths
+
+<img src="assets/images/responsive-design-example-2.png" alt="Responsive Design Screenshot for Individual Planet Pages">
+
+
+
+
+
 
 
 
