@@ -116,14 +116,17 @@ footer {
     color: #fff;   
 }
 #menu {
-    font-size: 1.5rem;
+    font-size: 1rem;
     letter-spacing: 2px; 
-    font-weight: 900;   
+    font-weight: 900; 
+    width: 33%;
+    display: block;  
 }
-#menu li {
+#menu p {
     list-style-type: none;
     text-transform:uppercase; 
-    position: fixed;    
+    position: fixed;
+
 }
 #menu a {
     color:#CC5500; 
@@ -132,6 +135,7 @@ footer {
 
 #planet-hero-image>img {
     margin-left: 33%;
+    margin-top: 15%;
     height: auto;
     width: 33%;
     border: solid 2px #fff;    
@@ -261,8 +265,16 @@ li {
         font-family: 'Teko', sans-serif;
     }
 }
-@media screen and (max-width:902px) {
+@media screen and (max-width:940px) {
     /* For smaller screens */
+
+    #menu {
+        font-size: 0.6;
+        letter-spacing: 1px; 
+        font-weight: 900; 
+        width: 33%;
+        display: block;  
+    }
 
     #info-container {
         display: block;
@@ -286,13 +298,13 @@ li {
 
     #planet-title {
         float: right;
-        font-size: 2rem;
+        font-size: 2.5rem;
         margin-right: 2.125rem;
         margin-top: 5px;
         color: #fff;   
     }
     #menu {
-        font-size: 1rem;
+        font-size: 0.6rem;
         letter-spacing: 1px;    
     }  
 }

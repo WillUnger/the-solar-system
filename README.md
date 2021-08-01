@@ -65,9 +65,13 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 <img src="assets/images/footer-image.png" alt="Screenshot of Footer">
 
-# Responsive Design
+# Tests
+
+## Responsive Design
 
 * For mobile and tablets I changed the layout of the Navigation Images on the Home Page so that they would stack up on top of eachother
+
+* This was done by removing the display: inline block; and changing the width to 100% as opposed to 33% with the divs containing the images
 
 * The difficulty with the responsive design over all was the size and placement of text which had to be re-sized and re-positioned in order to display in the correct manner
 
@@ -84,6 +88,13 @@ The site uses a main page with the images of the sun and planets on it for use o
 * Here is an example below of the text used in the individual planet pages information section being altered for Responsive Design purposes
 
 <img src="assets/images/css-media-queries-example.png" alt="Screenshot of CSS media queries">
+
+
+## Validator
+
+* The screenshot below shows a warning from the validator for the index.html (Home Page). However I don't think of this as an issue as the nature of the element does not require any further modifications
+
+<img src="assets/images/index.html-validator-image.png" alt="Screenshot of HTML validator warning">
 
 
 
