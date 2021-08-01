@@ -102,6 +102,26 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 <img src="assets/images/css-validator-image.png" alt="Screenshot of CSS code validation">
 
+# File Paths
+
+* On the live site nothing was displaying due to the use of absolute file paths as opposed to relative file paths
+
+* I had a lot of trouble figuring out how to implement the relative file paths but eventually figured out "./assets...." in my html and "../images...." in my css.style solved the issue
+
+* In this context, using relative file paths is a habit that I will be picking up from now on as I didn't realise its importance
+
+
+## Lighthouse Testing
+
+* The individual planets all scored above 90 in performance with Neptune being the highest at 95 and Mars the lowest at 91
+
+* The Main Home Page scored at 89 but runs very well
+
+<img src="assets/images/neptune-lighthouse-image.png" alt="Screenshot of Neptune Lighthouse score">
+
+<img src="assets/images/mars-lighthouse-image.png" alt="Screenshot of Mars Lighthouse score">
+
+<img src="assets/images/homepage-lighthouse-image.png" alt="Screenshot of Home Page Lighthouse score">
 
 
 
