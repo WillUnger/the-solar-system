@@ -115,13 +115,23 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 * The individual planets all scored above 90 in performance with Neptune being the highest at 95 and Mars the lowest at 91
 
-* The Main Home Page scored at 89 but runs very well
+* The Main Home Page scored at 89 but still runs very well on desktop and mobile
 
 <img src="assets/images/neptune-lighthouse-image.png" alt="Screenshot of Neptune Lighthouse score">
 
 <img src="assets/images/mars-lighthouse-image.png" alt="Screenshot of Mars Lighthouse score">
 
 <img src="assets/images/homepage-lighthouse-image.png" alt="Screenshot of Home Page Lighthouse score">
+
+# Unfixed Bugs
+
+* In the individual planet.htmls - When the responsive design facilitates the switching over of divs to be stacked on top of one another the images don't naturally fill out in the div.
+
+* In the future I will need to be carful in terms of image heights and how it fills a particular area out. However it is a trade-off I am willing to make as I don't want to sacrifice the intergrity of the images through stretching etc
+
+* Another trade-off is the navigation - "Choose Another Celestial Body" and how it sits with the text in the section with the headings and bullet points
+
+* I think it looks good on mobile but perhaps seems a little blurred on desktop. With the way I wanted the content to be layed out I simply didn't know a better way to design the nav in such a way that it wouldn't seem to "interfere" with the content as a whole
 
 
 
