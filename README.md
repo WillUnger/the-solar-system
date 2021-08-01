@@ -48,6 +48,8 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 * These are quick-fire points that are easy to take in and comprehend
 
+<img src="assets/images/planet-content-image.png" alt="Screenshot of planet information section">
+
 
 
 
