@@ -81,6 +81,10 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 
 
+* Here is an example below of the text used in the individual planet pages information section being altered for Responsive Design purposes
+
+<img src="assets/images/css-media-queries-example.png" alt="Screenshot of CSS media queries">
+
 
 
 
