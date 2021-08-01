@@ -123,7 +123,7 @@ The site uses a main page with the images of the sun and planets on it for use o
 
 <img src="assets/images/homepage-lighthouse-image.png" alt="Screenshot of Home Page Lighthouse score">
 
-# Unfixed Bugs
+## Unfixed Bugs
 
 * In the individual planet.htmls - When the responsive design facilitates the switching over of divs to be stacked on top of one another the images don't naturally fill out in the div.
 
@@ -132,6 +132,17 @@ The site uses a main page with the images of the sun and planets on it for use o
 * Another trade-off is the navigation - "Choose Another Celestial Body" and how it sits with the text in the section with the headings and bullet points
 
 * I think it looks good on mobile but perhaps seems a little blurred on desktop. With the way I wanted the content to be layed out I simply didn't know a better way to design the nav in such a way that it wouldn't seem to "interfere" with the content as a whole
+
+## Deployment
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+
+* In the GitHub repository, click on the Settings tab
+* Scroll down to the pages section and click into it
+* From the source section Drop-Down Menu, select the Main Branch
+* A link is then generated and provided
+
+Link to Live Website: [The Solar System]('willunger.github.io/the-solar-system/')
 
 
 
